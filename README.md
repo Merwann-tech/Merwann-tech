@@ -38,18 +38,6 @@ Toujours prêt à relever de nouveaux défis et à partager mes connaissances.
 ## Statistiques GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Merwann-tech&show_icons=true&theme=radical)
 
----
-
-<table><tr>
-<td valign="top">
-<h4>Langages les plus utilisés</h4>
-<img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merwann-tech&layout=compact&theme=dracula" />
-</td>
-<td valign="top">
-<h4>Série de contributions</h4>
-<img alt="Série de contributions" src="https://streak-stats.demolab.com?user=Merwann-tech&theme=dracula&hide_border=true" />
-</td>
-</tr></table>
 
 ---
 
